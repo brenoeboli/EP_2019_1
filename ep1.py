@@ -75,7 +75,7 @@ def main():
                 print(f'{k} ({v})')
                 
             #print(cenario_atual['opcoes'])
-            escolha = input('escolha a opção: ')
+            escolha = input('escolha a sua opção: ')
 
             if escolha in opcoes:
                 nome_cenario_atual = escolha
